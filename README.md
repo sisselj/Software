@@ -2,7 +2,7 @@
 
 Arduino Lib/ contains all the libraries used in the ino files.
 
-Temp.ino is a basic program for get the temp
+Temp.ino is a basic program for getting the temp
 
 Temp_LCD.ino is a program for getting the temp and showing it on an LCD-display.
 
