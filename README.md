@@ -23,10 +23,10 @@ UI for Temperature logging. Running this script without any args, will give a
 live plot and values in the terminal
 
 optional arguments:
-  -h, --help     show this help message and exit
-  -t, --txt      only saving data to txt (NO PLOT).
-  -s, --save     Save data to the data.txt file
-  -d, --default  Clear data from data.txt and save data to data.txt
+\n  -h, --help     show this help message and exit
+\n  -t, --txt      only saving data to txt (NO PLOT).
+\n  -s, --save     Save data to the data.txt file
+\n  -d, --default  Clear data from data.txt and save data to data.txt
 
 
 ##########################################################
