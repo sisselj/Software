@@ -1,0 +1,4 @@
+sudo apt-get install python pip
+sudo pip3 install "package you want"
+
+sudo apt-get install bluez python-bluez
